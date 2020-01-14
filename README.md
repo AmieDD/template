@@ -1,7 +1,5 @@
 # Repository Name
 
-**Template for clearance: This project serves as a template to aid projects in starting up and moving through clearance procedures. To start, fork this repository, remove this line, keep everything below as a starter and update as necessary.**
-
 **As a first step, this document is under governance review. When the review completes as appropriate per local and agency processes, the project team will be allowed to remove this notice. This material is draft.**
 
 **General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/organization/mission.htm).  Github is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software.
